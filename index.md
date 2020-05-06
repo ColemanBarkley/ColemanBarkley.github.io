@@ -2,22 +2,26 @@
 
 ---
 
-### Category Name 1 
+### Jupyter Notebooks 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
-
----
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[CNN using Tensorflow on CIFAR-10 Images](/pdf/CIFAR-10_CNN_Classifier.ipynb)
+<img src="images/CIFAR-10.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[CNN using Tensorflow on MNIST Handwritten Digits](/pdf/MNIST_CNN_Classifier.ipynb)
+<img src="images/MNIST.png?raw=true"/>
+
+---
+[CNN using Keras on Pima Diabetes Dataset](/pdf/Pima_Diabetes_CNN_Classifier.ipynb)
+<img src="images/Pima_Diabetes.png?raw=true"/>
+
+---
+[Project 3 Title](/pdf/Bike_Rental_Predictions.ipynb)
+<img src="images/Bike_Sharing.png?raw=true"/>
 
 ---
 
-### Category Name 2
+### Articles
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
