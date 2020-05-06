@@ -16,24 +16,14 @@
 <img src="images/Pima_Diabetes.png?raw=true"/>
 
 ---
-[Project 3 Title](/pdf/Bike_Rental_Predictions.ipynb)
+[Bike Sharing Usage Prediction](/pdf/Bike_Rental_Predictions.ipynb)
 <img src="images/Bike_Sharing.png?raw=true"/>
 
 ---
 
 ### Articles
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+- [Can Ethics be Automated?](/Automate_Ethics.md/)
 
 ---
 
-
-
-
----
-<p style="font-size:11px">Page template forked from <a href="https://github.com/evanca/quick-portfolio">evanca</a></p>
-<!-- Remove above link if you don't want to attibute -->
