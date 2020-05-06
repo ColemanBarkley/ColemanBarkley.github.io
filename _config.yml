@@ -1,11 +1,13 @@
 title: Coleman Barkley # your name (or website title) here
-logo: "/images/Headshot.png?raw=false" # your photo (or logo) here
+logo: "/images/Headshot.jpg?raw=false" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   Future Data Scientist
   <br>
   Image Analyics Engineer at BNSF Railway
   <br><br>
-  Currently persuing an MS in Advanced Data Analytics (Target Graduation: Aug 2020)
+  Currently persuing an MS in Advanced Data Analytics
+  <br>
+  Target Graduation: Aug 2020
   <br><br>
   <a href="https://www.linkedin.com/in/colemanbarkley/">View My LinkedIn Profile</a> 
   
